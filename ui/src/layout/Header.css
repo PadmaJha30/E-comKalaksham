@@ -1,0 +1,15 @@
+/* Enable hover effect for dropdowns */
+.hover-dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* Prevents unwanted spacing */
+  }
+  
+  /* Adjust dropdown positioning */
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+  }
+  .logo-img {
+    height: 50px; /* Adjust height */
+    width: auto; /* Maintain aspect ratio */
+  }

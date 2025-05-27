@@ -1,0 +1,11 @@
+/* HeroSection.css */
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);  /* Semi-transparent background */
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+.carousel-item img {
+  height: 500px; /* Adjust height as per design */
+  object-fit: cover;
+}
